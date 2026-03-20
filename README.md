@@ -1,4 +1,7 @@
 # Infinity, Lemniscate Knots, and Arithmetic Topology
+
+<img width="200" height="640" alt="image" src="https://github.com/user-attachments/assets/d6845c7b-f6e2-46a6-93fe-5bcc4307d19b" />
+
 It's no coincidence that the symbol for infinity is a kind of know-like object, a figure-eight turned on its side. There is a similar kind of mathematical knot called the Lemiscate knot. This page explains a conceptual analogy between the infinity symbol, mathematical knots, and number theory, ultimately suggesting that infinity can be viewed as a kind of “prime” that Euclid forgot.
 
 ---
